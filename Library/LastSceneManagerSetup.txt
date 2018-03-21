@@ -1,0 +1,7 @@
+sceneSetups:
+- path: C:/Users/miche/Desktop/CSGameDesktop/Roll a Ball/Assets/Scenes/Minigame.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Minigame.unity
+  isLoaded: 1
+  isActive: 0
